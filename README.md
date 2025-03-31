@@ -11,7 +11,7 @@ openwrt系统安装tailscal
 
 ## 步骤
 
-安装过程参考[OpenWrt 安装配置 tailscale](https://pfchina.org/?p=9151](https://pfchina.org/?p=9151)
+安装过程参考[OpenWrt 安装配置 tailscale](https://pfchina.org/?p=9151)
 
 ### 创建目录
 
